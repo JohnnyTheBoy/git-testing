@@ -1,3 +1,4 @@
 this is a new file added on feature branch.
 
 - this is first update to a file on feature branch.
+- second update 02 while changes on master branch.
