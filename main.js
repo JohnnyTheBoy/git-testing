@@ -1,5 +1,5 @@
-getFullName(firstName){
-    console.log('Your full name is ' + firstName);
+getFullName (firstName,lastName){
+    console.log(`Your full name is ${firstName} ${lastName}!`);
 }
 
-getFullName('John');
+getFullName('John','Papa');
